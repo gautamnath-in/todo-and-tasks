@@ -1,5 +1,5 @@
 # todo-and-tasks
-## TODO and Task CRD Operations
+## TODO and Task CRUD Operations
 _Used Libraries_
 * Mongoose
 * Express
