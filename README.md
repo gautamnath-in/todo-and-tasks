@@ -9,9 +9,9 @@ _Used Libraries_
 
 Among the controllers::
 
-* The _createTodoItem_ took me around 5 hrs to ensure that a unique ID generates each time the user add a new task. [Here I learned abt the `$set` operator]
+* The _createTodoItem_ took me around 5 hrs to ensure that a unique ID generates each time the user add a new task.
 
-* The _updateAnItem_ controller took me about 2.5 hrs to update a specific task.
+* The _updateAnItem_ controller took me about 2.5 hrs to update a specific task. [Here I learned abt the `$set` operator]
 
 * The _deleteTask_ controller took 3 hrs roughly to delete a particular task from the to-do item. [ Here I learned abt the `$pull` operator]
 
